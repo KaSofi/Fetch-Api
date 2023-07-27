@@ -1,3 +1,12 @@
+Web: https://fetch-api-info.netlify.app
+
+Fetch / Api projects
+Class components, componentDidMount()
+
+![london](https://github.com/KaSofi/Fetch-Api/assets/103929930/81ce8d9e-bb79-4700-a640-4e844fe60c0d)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
